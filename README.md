@@ -20,7 +20,7 @@
 
 ## Functionality
 The app's functionality includes:
-1. Fetch a list of movies from tmdb api (https://developer.themoviedb.org/reference/intro/getting-started) and shows them in RecyclerView.. 
+1. Fetch a list of popular movies from tmdb api (https://developer.themoviedb.org/reference/intro/getting-started) and shows them in RecyclerView.. 
 2. Click a movie and redirect tmdb homepage. 
 
 ## Tech Stack & Open-source Libraries
