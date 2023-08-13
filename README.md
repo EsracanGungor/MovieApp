@@ -4,7 +4,7 @@
  MovieApp demonstrates  simple Android app with Chrome Custom Tabs, ViewModel, ViewBinding, Coil, Retrofit and Material Design based on MVVM architecture.</p>
  
 ## Medium
--For further explanation you can read medium article [click](https://github.com/EsracanGungor/MovieApp/releases/tag/1.0.0) here.
+-For further explanation you can read medium article [click](https://medium.com/@esracangungor/chrome-custom-tabs-with-kotlin-fecce1daf8a7) here.
 
 <table>
   <tr>
