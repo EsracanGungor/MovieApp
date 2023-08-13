@@ -36,4 +36,4 @@ The app's functionality includes:
 MovieApp is based on the clean architecture with MVVM(Model - View - View Model) design pattern.
 
 ## Download
-Go to the [Releases]() to download the APK.
+Go to the [Releases](https://github.com/EsracanGungor/MovieApp/releases) to download the APK.
